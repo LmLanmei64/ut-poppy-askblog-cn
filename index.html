@@ -1,23 +1,29 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="generator" content="GitLab Pages">
-    <title>Plain HTML site using GitLab Pages</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <div class="navbar">
-      <a href="https://pages.gitlab.io/plain-html/">Plain HTML Example</a>
-      <a href="https://gitlab.com/pages/plain-html/">Repository</a>
-      <a href="https://gitlab.com/pages/">Other Examples</a>
-    </div>
-
-    <h1>Hello World!</h1>
-
-    <p>
-      This is a simple plain-HTML website on GitLab Pages, without any fancy static site generator.
-    </p>
-  </body>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title> Omega Timeline : Poppy's Story（《Omega时间线 ： Poppy的故事》）镜像转载项目 </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/themes/vue.css">
+</head>
+<body>
+  <div id="app">加载中...</div>
+  <script>
+    // 关键配置：将默认首页指向 main.md
+    window.$docsify = {
+      loadSidebar: false,
+      homepage: 'README.md',
+      name: 'UT Poppy Askblog CN',
+      // 如果你的文件中有中文路径，可以开启此选项
+       nativeEmoji: true,
+       relativePath: true,// 添加别名，确保根路径 '/' 也能正确指向 
+  alias: {
+    '/': '/main.md',
+    '/main': '/main.md' 
+  }
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"d749fced48b24532b34eb07b904567fe","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
 </html>
-
