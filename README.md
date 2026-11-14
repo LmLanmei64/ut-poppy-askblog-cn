@@ -1,4 +1,3 @@
-
 ![image](images/bf6c2a1fa7e5684796ef249a0073b4c9.png)
 
 # Omega Timeline : Poppy's Story（《Omega时间线 ： Poppy的故事》）镜像转载项目
@@ -6,9 +5,13 @@
 
 >[!tip]
 >此项目仅供中国大陆地区阅读，外国地区请直接访问[原AU链接](https://ut-poppy-askblog.tumblr.com)阅读该AU。
->如果此项目侵犯了原au作者的权益，请[通过邮箱联系我删除](mailto:m13471939585@163.com)
+>
+>如果此项目侵犯了原au作者的权益，请[通过邮箱联系我删除](mailto:Lm_Lanmei64@qq.com)
+>
 >This project is only available for reading in mainland China. For foreign regions, please visit the original AU link directly to read it
+>
 >[Original AU Link](https://ut-poppy-askblog.tumblr.com)
+>
 >If this project infringes on the rights of the original AU author, please [contact me via email to have it removed](mailto:Lm_Lanmei64@qq.com)
 
 欢迎您，潜在的读者，来到本项目！
@@ -27,7 +30,7 @@
 ### 2.本地阅读
 使用git命令行克隆该仓库即可：
 
-`git clone https://gitlab.com/LmLanmei64/ut-poppy-askblog-cn`
+`git clone https://codeberg.org/Lm_Lanmei64/ut-poppy-askblog-cn.git`
 
 若用git gui客户端则需将仓库url填入本仓库url即可
 
