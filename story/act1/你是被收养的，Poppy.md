@@ -9,4 +9,4 @@
 
 # **正文**
 ![image](../../images/story/act1/you-re_adopted-poppy/1794113583159.png)
-![image](../../images/story/act1/you-re_adopted-poppy/1794115768117.png])
+![image](../../images/story/act1/you-re_adopted-poppy/1794115768117.png)
