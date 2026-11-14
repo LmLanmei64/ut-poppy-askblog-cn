@@ -30,7 +30,7 @@
 ### 2.本地阅读
 使用git命令行克隆该仓库即可：
 
-`git clone https://codeberg.org/Lm_Lanmei64/ut-poppy-askblog-cn.git`
+`git clone https://codeberg.org/lmlanmei64/ut-poppy-askblog-cn.git`
 
 若用git gui客户端则需将仓库url填入本仓库url即可
 
