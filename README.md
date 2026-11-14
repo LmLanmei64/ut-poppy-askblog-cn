@@ -24,7 +24,7 @@
 
 ## 阅读方法
 ### 1.在线阅读（推荐）
-直接访问以下网站即可：[https://lmlanmei64.de5.net/ut-poppy-askblog-cn](https://lmlanmei64.de5.net/ut-poppy-askblog-cn/)
+直接访问以下网站即可：[https://ut-poppy-askblog-cn.lmlanmei64.de5.net/](https://ut-poppy-askblog-cn.lmlanmei64.de5.net/)
 
 
 ### 2.本地阅读
