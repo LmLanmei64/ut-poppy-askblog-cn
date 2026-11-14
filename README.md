@@ -9,7 +9,7 @@
 >如果此项目侵犯了原au作者的权益，请[通过邮箱联系我删除](mailto:m13471939585@163.com)
 >This project is only available for reading in mainland China. For foreign regions, please visit the original AU link directly to read it
 >[Original AU Link](https://ut-poppy-askblog.tumblr.com)
->If this project infringes on the rights of the original AU author, please [contact me via email to have it removed](mailto:m13471939585@163.com)
+>If this project infringes on the rights of the original AU author, please [contact me via email to have it removed](mailto:Lm_Lanmei64@qq.com)
 
 欢迎您，潜在的读者，来到本项目！
 
@@ -37,3 +37,7 @@
 Q:我能不能为这个AU的翻译做点什么？
 
 A:当然可以！正如我在转载翻译序所说的，我本人的能力比较弱，翻译水平可能无法令人满意，所以我很乐意接受帮助，只需要给这个项目提交PR即可。不过本人只在周末或节假日有空，因此一时半会不能确认是否要提交，请耐心等待
+
+## 版权与许可说明
+本项目是对 [FmsDraws](https://fmsdraws.tumblr.com) 的作品《[Omega Timeline : Poppy's Story](https://ut-poppy-askblog.tumblr.com)》的非官方中文翻译。
+原作品版权归原作者所有。本翻译项目（包含翻译文本及排版）依据 CC BY-NC-SA 4.0 协议进行授权。您可以自由共享和演绎，但必须保留署名、不得用于商业目的，且必须采用相同的协议共享。
